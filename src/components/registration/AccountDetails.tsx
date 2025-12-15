@@ -214,7 +214,7 @@ export default function AccountDetails() {
 
       const res = await fetch(
         // "https://api-fos.tsm.ac.in/payment/create-checkout",
-        "https://paynimo-backend-1yd7goouc-fosgrietsms-projects.vercel.app/payment/create-checkout",
+        "https://paynimo-backend.vercel.app/payment/create-checkout",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
