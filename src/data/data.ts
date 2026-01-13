@@ -111,7 +111,7 @@ export const siteData = {
   ],
   
   // for marquee data
-  marqueeData: ["Submission deadline extended till 15th December 2025","Submission deadline extended till 15th December 2025","Submission deadline extended till 15th December 2025"],
+  marqueeData: ["Please download the Overall Conference Program and Presentation schedule (Online & Offline)","Please download the Overall Conference Program and Presentation schedule (Online & Offline)","Please download the Overall Conference Program and Presentation schedule (Online & Offline)"],
 
   // home page data
   heroSlideImages: [
