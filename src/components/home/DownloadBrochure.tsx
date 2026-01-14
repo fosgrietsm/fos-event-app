@@ -31,8 +31,8 @@ export default function DownloadBrochure() {
       </div>
       <div className="mt-3 w-full flex justify-center">
         <a
-          href={siteData.posterPath}
-          download="Poster.png" // ensures file downloads instead of opening
+          href={siteData.conferenceProgramSchedulePdfPath}
+          download="FOS2026GRIE - Conference Program Schedule.pdf" // ensures file downloads instead of opening
           className="inline-block bg-[#4CAF50] text-white font-bold py-2 px-6 rounded-full hover:bg-[#43a047] transition-transform duration-300 hover:scale-105"
         >
           Conference Programe Schedule
@@ -40,8 +40,8 @@ export default function DownloadBrochure() {
       </div>
       <div className="mt-3 w-full flex justify-center">
         <a
-          href={siteData.posterPath}
-          download="Poster.png" // ensures file downloads instead of opening
+          href={siteData.presentationSchedule_OfflinePdfPath}
+          download="Presentation Schedule (Offline).pdf" // ensures file downloads instead of opening
           className="inline-block bg-[#4CAF50] text-white font-bold py-2 px-6 rounded-full hover:bg-[#43a047] transition-transform duration-300 hover:scale-105"
         >
           Presentation Schedule (Offline)
@@ -49,8 +49,8 @@ export default function DownloadBrochure() {
       </div>
       <div className="mt-3 w-full flex justify-center">
         <a
-          href={siteData.posterPath}
-          download="Poster.png" // ensures file downloads instead of opening
+          href={siteData.presentationSchedule_OnlinePdfPath}
+          download="Presentation Schedule (Online).pdf" // ensures file downloads instead of opening
           className="inline-block bg-[#4CAF50] text-white font-bold py-2 px-6 rounded-full hover:bg-[#43a047] transition-transform duration-300 hover:scale-105"
         >
           Presentation Schedule (Online)

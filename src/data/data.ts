@@ -143,7 +143,11 @@ export const siteData = {
     "https://www.youtube.com/embed/y5kbWpMq4xE?si=qcskFS3wrkivShsG",
 
   brochurePdfPath: "/pdfs/GRIE Brochure.pdf",
+  conferenceProgramSchedulePdfPath: "/pdfs/Conference_Program_Schedule.pdf",
+  presentationSchedule_OfflinePdfPath: "/pdfs/Presentation_Schedule_(Offline).pdf",
+  presentationSchedule_OnlinePdfPath: "/pdfs/Presentation_Schedule_(Online).pdf",
   posterPath: "/images/GRIE Conference Poster.png",
+
 
   collabtaorData: [
     {
