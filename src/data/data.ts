@@ -143,9 +143,9 @@ export const siteData = {
     "https://www.youtube.com/embed/y5kbWpMq4xE?si=qcskFS3wrkivShsG",
 
   brochurePdfPath: "/pdfs/GRIE Brochure.pdf",
-  conferenceProgramSchedulePdfPath: "/pdfs/Conference_Program_Schedule.pdf",
-  presentationSchedule_OfflinePdfPath: "/pdfs/Presentation_Schedule_(Offline).pdf",
-  presentationSchedule_OnlinePdfPath: "/pdfs/Presentation_Schedule_(Online).pdf",
+  conferenceProgramSchedulePdfPath: "/pdfs/FOS 2026 - GRIE Conference daywise Schedule.pdf",
+  presentationSchedule_OfflinePdfPath: "/pdfs/FOS 2026 - GRIE - offline Presentation Schedule.pdf",
+  presentationSchedule_OnlinePdfPath: "/pdfs/Online track FOS2026 final 20.1.2026.pdf",
   posterPath: "/images/GRIE Conference Poster.png",
 
 
